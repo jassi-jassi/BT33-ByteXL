@@ -1,4 +1,6 @@
 # BT33-ByteXL
-readme file for bt33 fullstack jav  zsdfgsadg asdhyertiu6ry;7a
+readme file for bt33 fullstack java
 # Practical Implementation
-j bn
+of html
+# Day 2
+# updated practice
